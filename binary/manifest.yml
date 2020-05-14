@@ -1,0 +1,7 @@
+---
+applications:
+- name: test-binary
+  random-route: true
+  buildpacks:
+    - binary_buildpack
+  memory: 256M
