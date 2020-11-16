@@ -4,7 +4,6 @@
 .settings/
 build/
 .gradle/
-target/
 target/classes/
 target/generated-sources/
 target/generated-test-sources/
