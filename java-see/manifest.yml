@@ -3,7 +3,7 @@ applications:
 - name: test-java
   random-route: true
   memory: 768M
-  path: target/hello-world-0.0.1-SNAPSHOT.jar
+  path: hello-world-0.0.1-SNAPSHOT.jar
   buildpacks:
     - java_buildpack
   env:

@@ -4,11 +4,4 @@
 .settings/
 build/
 .gradle/
-target/classes/
-target/generated-sources/
-target/generated-test-sources/
-target/maven-archiver/
-target/maven-status/
-target/surefire-reports/
-target/test-classes/
-target/hello-world-0.0.1-SNAPSHOT.jar.original
+target/
